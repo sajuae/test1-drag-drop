@@ -13,8 +13,8 @@ export const Header = () => (
       Counter
     </Link>
     {' · '}
-    <Link to='/d3sample' activeClassName={classes.activeRoute}>
-      D3 Sample
+    <Link to='/demo' activeClassName={classes.activeRoute}>
+      Demo
     </Link>
   </div>
 )
